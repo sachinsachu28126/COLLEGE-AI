@@ -1,0 +1,31 @@
+<h2>Add New FAQ</h2>
+
+<input id="category" placeholder="Category">
+<input id="question" placeholder="Question">
+<input id="answer" placeholder="Answer">
+
+<button onclick="addFAQ()">
+Add FAQ
+</button>
+
+<script>
+async function addFAQ(){
+
+await fetch("/add",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+category:
+document.getElementById("category").value,
+question:
+document.getElementById("question").value,
+answer:
+document.getElementById("answer").value
+})
+});
+
+alert("FAQ Added");
+}
+</script>

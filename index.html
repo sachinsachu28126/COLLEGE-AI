@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College AI Assistant</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static',
+          filename='style.css') }}">
+</head>
+<body>
+
+<button onclick="toggleMode()">
+🌙 Dark Mode
+</button>
+
+<div class="chat-container">
+
+<h1>🎓 College AI Assistant</h1>
+
+<div id="chat-box"></div>
+
+<div class="suggestions">
+<button onclick="fillQuestion('What courses are offered?')">
+Courses
+</button>
+
+<button onclick="fillQuestion('Is hostel available?')">
+Hostel
+</button>
+
+<button onclick="fillQuestion('How can I apply for admission?')">
+Admission
+</button>
+</div>
+
+<input id="message"
+placeholder="Ask a question">
+
+<button onclick="sendMessage()">
+Send
+</button>
+
+<button onclick="startVoice()">
+🎤
+</button>
+
+<button onclick="speakLast()">
+🔊
+</button>
+
+</div>
+
+<script src="{{ url_for('static',
+filename='script.js') }}"></script>
+
+</body>
+</html>

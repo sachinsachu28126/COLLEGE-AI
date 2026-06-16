@@ -1,0 +1,127 @@
+[
+  {
+    "category": "Admissions",
+    "question": "How can I apply for admission?",
+    "answer": "Applications are available on the college website."
+  },
+  {
+    "category": "Admissions",
+    "question": "What documents are required for admission?",
+    "answer": "Students need mark sheets, transfer certificate, community certificate, and passport-size photographs."
+  },
+  {
+    "category": "Admissions",
+    "question": "What is the admission process?",
+    "answer": "Students must submit an application form, required documents, and complete the verification process."
+  },
+  {
+    "category": "Courses",
+    "question": "What courses are offered?",
+    "answer": "B.Tech in AI & DS, CSE, IT, ECE, and Mechanical Engineering."
+  },
+  {
+    "category": "Courses",
+    "question": "What is the duration of B.Tech courses?",
+    "answer": "The duration of B.Tech courses is four years."
+  },
+  {
+    "category": "Courses",
+    "question": "Does the college offer postgraduate courses?",
+    "answer": "Yes, the college offers various postgraduate programs."
+  },
+  {
+    "category": "Hostel",
+    "question": "Is hostel available?",
+    "answer": "Yes, separate hostels are available for boys and girls."
+  },
+  {
+    "category": "Hostel",
+    "question": "Are hostel rooms furnished?",
+    "answer": "Yes, hostel rooms are equipped with basic furniture and facilities."
+  },
+  {
+    "category": "Hostel",
+    "question": "Is Wi-Fi available in the hostel?",
+    "answer": "Yes, Wi-Fi facilities are available in the hostel."
+  },
+  {
+    "category": "Fees",
+    "question": "How can I pay my college fees?",
+    "answer": "Fees can be paid online through the college portal or at the accounts office."
+  },
+  {
+    "category": "Fees",
+    "question": "Does the college provide scholarships?",
+    "answer": "Yes, scholarships are available for eligible students based on merit and government schemes."
+  },
+  {
+    "category": "Library",
+    "question": "Does the college have a library?",
+    "answer": "Yes, the college has a well-equipped library with books, journals, and digital resources."
+  },
+  {
+    "category": "Library",
+    "question": "What are the library timings?",
+    "answer": "The library is open from 8:30 AM to 5:30 PM on working days."
+  },
+  {
+    "category": "Placement",
+    "question": "Does the college provide placement opportunities?",
+    "answer": "Yes, the college has a placement cell that conducts campus recruitment drives."
+  },
+  {
+    "category": "Placement",
+    "question": "Which companies visit the campus for placements?",
+    "answer": "Many leading IT and core companies visit the campus every year for recruitment."
+  },
+  {
+    "category": "Campus",
+    "question": "What are the college working hours?",
+    "answer": "College timings are generally from 9:00 AM to 4:00 PM."
+  },
+  {
+    "category": "Campus",
+    "question": "Does the college have a cafeteria?",
+    "answer": "Yes, the college has a cafeteria that serves snacks and meals."
+  },
+  {
+    "category": "Campus",
+    "question": "Is transportation available?",
+    "answer": "Yes, the college provides bus transportation to various locations."
+  },
+  {
+    "category": "Campus",
+    "question": "Does the college have sports facilities?",
+    "answer": "Yes, the college provides facilities for indoor and outdoor sports."
+  },
+  {
+    "category": "Facilities",
+    "question": "Is there a computer lab on campus?",
+    "answer": "Yes, the college has modern computer laboratories with internet access."
+  },
+  {
+    "category": "Facilities",
+    "question": "Does the college provide medical facilities?",
+    "answer": "Yes, basic medical facilities and first aid services are available on campus."
+  },
+  {
+    "category": "Events",
+    "question": "Does the college conduct cultural events?",
+    "answer": "Yes, the college organizes annual cultural festivals and technical events."
+  },
+  {
+    "category": "Events",
+    "question": "Are there student clubs in the college?",
+    "answer": "Yes, there are technical, cultural, and social clubs for students."
+  },
+  {
+    "category": "Examinations",
+    "question": "How are semester examinations conducted?",
+    "answer": "Semester examinations are conducted at the end of each semester as per university regulations."
+  },
+  {
+    "category": "Examinations",
+    "question": "Can students view their examination results online?",
+    "answer": "Yes, students can access their results through the college or university portal."
+  }
+]
